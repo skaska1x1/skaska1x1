@@ -1,7 +1,6 @@
 # Привет 👋
 ## меня зовут Дмитрий
 ## занимаюсь html версткой сайтов
-#
 - Работаю над [проектом](https://skaska1x1.github.io/Qwery/)
 #
 - Изучаю JavaScript 
@@ -12,8 +11,8 @@
 #
 ## Связаться со мной:
 - [vk.com](https://vk.com/sheningor)
-
 - [telegram](https://t.me/skaska1x1)
+- [@mail](skaska1x1@ya.ru)
 
 <!--
 **skaska1x1/skaska1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
