@@ -12,7 +12,7 @@
 ## Связаться со мной:
 - [vk.com](https://vk.com/sheningor)
 - [telegram](https://t.me/skaska1x1)
-- [@mail](skaska1x1@ya.ru)
+- почта: [mail]
 
 <!--
 **skaska1x1/skaska1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [Qwery]:https://skaska1x1.github.io/Qwery/ -->
+ [mail]:skaska1x1@ya.ru
