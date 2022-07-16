@@ -7,7 +7,7 @@
 - HTML, CSS3. 
 - Препроцессоры: SCSS/SASS. 
 - Шаблонизаторы: pug, gulp, Git, GitHub. 
-- Графические редакторы: Figma, Photoshop.
+- Графические редакторы: Figma.
 #
 ## Связаться со мной:
 - [vk.com](https://vk.com/sheningor)
