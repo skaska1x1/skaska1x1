@@ -3,7 +3,7 @@
 - Работаю над [проектом](https://skaska1x1.github.io/OnlineCourse/)
 #
 - Изучаю JavaScript 
-- HTML, CSS3. 
+- HTML, CSS3 
 - Препроцессоры: SCSS/SASS. 
 - Шаблонизаторы: gulp, Git, GitHub.
   - изучаю : handlebars, pug.
