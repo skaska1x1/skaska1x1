@@ -2,11 +2,11 @@
 # html верстка сайтов
 - Работаю над [проектом](https://skaska1x1.github.io/OnlineCourse/)
 #
-- Изучаю JavaScript 
+- Изучаю JavaScript, React, Typescript, Git, GitHub.
 - HTML, CSS3 
 - Препроцессоры: SCSS/SASS. 
-- Шаблонизаторы: gulp, Git, GitHub.
-  - изучаю : handlebars, pug.
+- Шаблонизаторы: Pug (ex Jade), Handlebars.js.
+- есть опыт работы с Node.js и Express.js
 - Графические редакторы: Figma.
 #
 ## Связаться со мной:
