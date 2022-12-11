@@ -1,8 +1,12 @@
 
-# html верстка сайтов
+# Fronted dev
 - Работаю над [проектом](https://skaska1x1.github.io/OnlineCourse/)
 #
-- Изучаю JavaScript, React, Typescript, Git, GitHub.
+- Изучаю 
+  - JavaScript
+  - React js
+  - Typescript
+  - Next js
 - HTML, CSS3 
 - Препроцессоры: SCSS/SASS. 
 - Шаблонизаторы: Pug (ex Jade), Handlebars.js.
