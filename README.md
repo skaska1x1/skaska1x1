@@ -23,7 +23,7 @@
 ## Contact with me :
 - [vk.com](https://vk.com/sheningor)
 - [telegram](https://t.me/skaska1x1)
-- [mail](skaska1x1@yandex.ru) 
+- ###### Mail : <skaska1x1@yandex.ru> ######
 
 <!--
 **skaska1x1/skaska1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
