@@ -1,29 +1,29 @@
 
 # Frontend dev
-- Работаю над [проектом](https://skaska1x1.github.io/OnlineCourse/)
+- working on a [project](https://skaska1x1.github.io/OnlineCourse/)
 #
 - HTML
 - CSS3
-- Изучаю :
+- studying :
   - JavaScript
   - React js
   - Typescript
   - Next js
   - Node js
   - Express js
-- Препроцессоры : 
+- Preprocessors : 
   - SCSS/SASS
-- Шаблонизаторы :
+- Template Engines :
   - Pug (ex Jade)
   - Handlebars.js
-- Графические редакторы : 
+- Graphic editor : 
   - Figma
   - Adobe Photoshop
 #
-## Связаться со мной :
+## Contact with me :
 - [vk.com](https://vk.com/sheningor)
 - [telegram](https://t.me/skaska1x1)
-- ###### почта:  <skaska1x1@yandex.ru> ######
+- ###### mail : <skaska1x1@yandex.ru> ######
 
 <!--
 **skaska1x1/skaska1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
