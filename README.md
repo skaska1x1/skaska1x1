@@ -1,5 +1,5 @@
 
-# Fronted dev
+# Frontend dev
 - Работаю над [проектом](https://skaska1x1.github.io/OnlineCourse/)
 #
 - HTML
