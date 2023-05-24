@@ -19,6 +19,7 @@
 - Graphic editor : 
   - Figma
   - Adobe Photoshop
+  - Adobe Illustrator
 #
 ## Contact with me :
 - [vk.com](https://vk.com/sheningor)
