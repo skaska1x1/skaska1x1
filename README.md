@@ -1,7 +1,7 @@
 
 # Frontend dev
-- Working on a [project](https://skaska1x1.github.io/OnlineCourse/)
-#
+<!-- - Working on a [project](https://skaska1x1.github.io/OnlineCourse/) -->
+<!-- # -->
 - HTML
 - CSS3
 - Studying :
