@@ -1,8 +1,7 @@
 
-# Frontend dev  
+## last [project](https://skaska1x1.github.io/universal/) 
 - Stack: JavaScript, Typescript, Vue.js, React.js, Next.js, HTML, CSS, Sass, Pug, Webpack, Gulp.
 - Graphic editor: Figma, Adobe Photoshop, Adobe Illustrator
-### currently working on this [project](https://skaska1x1.github.io/universal/) 
 <!-- # -->
 ## Contact with me: skaska1x1@ya.ru , [t.me](https://t.me/sky4no_s_wami) , [vk.com](https://vk.com/sky4no_s_wami) , [whatsapp](https://clck.ru/354AWX)
 
