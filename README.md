@@ -4,7 +4,7 @@
 - Graphic editor: Figma, Adobe Photoshop, Adobe Illustrator
 ### currently working on this [project](https://skaska1x1.github.io/universal/) 
 <!-- # -->
-## Contact with me: [mail.yandex.ru](skaska1x1@yandex.ru) , [t.me](https://t.me/sky4no_s_wami) , [vk.com](https://vk.com/sky4no_s_wami) , [whatsapp](https://clck.ru/354AWX)
+## Contact with me: skaska1x1@ya.ru , [t.me](https://t.me/sky4no_s_wami) , [vk.com](https://vk.com/sky4no_s_wami) , [whatsapp](https://clck.ru/354AWX)
 
 <!--
 **skaska1x1/skaska1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
