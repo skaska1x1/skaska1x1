@@ -1,30 +1,10 @@
 
-# Frontend dev
-<!-- - Working on a [project](https://skaska1x1.github.io/OnlineCourse/) -->
+# Frontend dev  
+- Stack: JavaScript, Typescript, Vue.js, React.js, Next.js, HTML, CSS, Sass, Pug, Webpack, Gulp.
+- Graphic editor: Figma, Adobe Photoshop, Adobe Illustrator
+### currently working on this [project](https://skaska1x1.github.io/universal/) 
 <!-- # -->
-- HTML
-- CSS3
-- Studying :
-  - JavaScript
-  - React js
-  - Typescript
-  - Next js
-  - Node js
-  - Express js
-- Preprocessors : 
-  - SCSS/SASS
-- Template Engines :
-  - Pug (ex Jade)
-  - Handlebars.js
-- Graphic editor : 
-  - Figma
-  - Adobe Photoshop
-  - Adobe Illustrator
-#
-## Contact with me :
-- [vk.com](https://vk.com/sheningor)
-- [telegram](https://t.me/skaska1x1)
-- ###### Mail : <skaska1x1@yandex.ru> ######
+## Contact with me: [mail](skaska1x1@ya.ru) , [t.me](https://t.me/skaska1x1) , [vk.com](https://vk.com/sheningor) , [whatsapp](https://clck.ru/354AWX)
 
 <!--
 **skaska1x1/skaska1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
