@@ -1,13 +1,13 @@
 
-## last [project](https://skaska1x1.github.io/universal/) 
-- Stack: JavaScript, Typescript, Vue.js, React.js, Next.js, HTML, CSS, Sass, Pug, Webpack, Gulp.
+# Hello, world! - Last [project](https://skaska1x1.github.io/universal/) 
+- Stack: HTML, CSS, Sass, Tailwind CSS, JavaScript, Typescript, React.js, Webpack, Vite, Gulp.
 - Graphic editor: Figma, Adobe Photoshop, Adobe Illustrator
 <!-- # -->
 ## Contact with me: skaska1x1@ya.ru , [t.me](https://t.me/sky4no_s_wami) , [vk.com](https://vk.com/sky4no_s_wami) , [whatsapp](https://clck.ru/354AWX)
 
 <!--
 **skaska1x1/skaska1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- Stack: JavaScript, Typescript, Vue.js, React.js, Next.js, HTML, CSS, Sass, Pug, Webpack, Vite, Gulp.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
