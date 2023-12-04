@@ -5,7 +5,7 @@
 <!-- # -->
 ## Contact with me: skaska1x1@ya.ru , [t.me](https://t.me/sky4no_s_wami) , [vk.com](https://vk.com/sky4no_s_wami) , [whatsapp](https://clck.ru/354AWX)
 
-## projects for freelance:
+## freelance projects:
 - first - [KrisMg](https://655d2c371809811be64033f9--krismg.netlify.app/)
 - second - [Аренда спецтехники](https://stupendous-snickerdoodle-cb9925.netlify.app/)
 
